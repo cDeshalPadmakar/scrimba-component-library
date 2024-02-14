@@ -68,6 +68,7 @@ h2 {
   flex-wrap: nowrap;
   overflow: scroll;
   align-items: flex-start;
+  margin: 12px 0;
 }
 
 .demo > .banner {
